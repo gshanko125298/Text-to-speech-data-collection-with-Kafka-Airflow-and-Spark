@@ -14,10 +14,10 @@ Read a brief description of the data [here](https://arxiv.org/pdf/2103.05639.pdf
 Ready-made Amharic data collected from different sources [here](https://drive.google.com/file/d/1_YLX27TdACjIF1iu8e3t-kkTb1qBlLkO/view?usp=sharing).
 
 ## Contributors
-- **Tegisty Hailay (Lead)**
-- **Kibatu Woldemariam**
-- Michael Getachew
-- Josias Ounsinli
-- Genet Shanko
-- Amanuel Zewdu
+- **Tegisty Hailay (Lead)**(Address)
+- **Kibatu Woldemariam**(Address)
+- Michael Getachew(Address)
+- Josias Ounsinli(Address)
+- Genet Shanko(Address)
+- Amanuel Zewdu(Address)
 
